@@ -1,0 +1,18 @@
+{
+  "list": {
+    "Creation": "Test Case Creation",
+    "Execution": "Test Case Execution",
+    "Reporting": "Bug Reporting",
+    "Retesting": "Bug Retesting"
+  },
+  "infoText": {
+    "DoubleClick": "Double-click to edit a todo",
+    "CreatedBy": "Created by the TodoMVC Team",
+    "PartOf": "Part of TodoMVC"
+  },
+  "buttonState": {
+    "All": "All",
+    "Active": "Active",
+    "Completed": "Completed"
+  }
+}
