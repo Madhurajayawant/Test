@@ -59,7 +59,8 @@ test.describe("Todo Assignment", () => {
   test("TC_07 : Verify the Clear completed button ", async () => {
     await commonPage.clickOnClrComButton();
     await commonPage.verifyClearComplteButton();
-    await commonPage.clickOnButtonState("ALL");
+    await commonPage.clickOnButtonState(inputData.buttonState.All);
     await commonPage.verifyItemleft();
   });
 });
+
